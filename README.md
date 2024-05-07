@@ -1,4 +1,4 @@
-# Run Metabase on EC2 + RDS with ALB
+# Run Metabase on EC2 + RDS with ALB with end to end security
 
 
 ## Includes
